@@ -6,7 +6,7 @@
   },
   "options": {},
   "attributes": {
-    "qquestion": {
+    "question": {
       "type": "text",
       "required": true
     },

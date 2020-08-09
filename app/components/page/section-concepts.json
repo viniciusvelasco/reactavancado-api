@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "concept": {
+    "concepts": {
       "type": "component",
       "repeatable": true,
       "component": "page.concept"
